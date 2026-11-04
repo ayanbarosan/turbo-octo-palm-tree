@@ -1,17 +1,21 @@
-# A doua dimineață
+# No One Else
 
-Prototip narativ 3D în limba română, cu explorare third-person și o poveste scurtă.
+1. Download this branch using **Code → Download ZIP**.
+2. Extract the ZIP archive.
+3. Open **index.html** in Chrome or Edge, then click **WAKE UP**.
 
-## Deschidere
+No Node.js installation or Codex cloud publication is required. The game, fonts, models and textures are embedded in the HTML. A WebGL 2 browser with hardware acceleration is required.
 
-1. În GitHub selectează ramura `joc-autonom`.
-2. Alege **Code → Download ZIP**.
-3. Extrage arhiva și deschide `index.html` în Chrome sau Edge.
+## Controls
 
-Codul, modelele, sunetul procedural și fonturile sunt incluse în fișierul HTML. Este necesar un browser cu WebGL 2 și accelerare grafică.
+**WASD / arrows** move · **drag** looks around · **E** interacts.
 
-## Comenzi
+**Left click / F** punches and chains up to three strikes. **Right click / Q** holds guard. **Space + movement** dodges. **Shift** moves faster outside combat. **Esc** pauses.
 
-WASD sau săgeți pentru mișcare, mouse + trage pentru cameră, E pentru interacțiune, Shift pentru deplasare rapidă și Esc pentru pauză. Citește scrisoarea de pe birou înainte de a deschide ușa.
+Read the letter pushed under the door, then let the visitor in. Watch his shoulders before he attacks. Lower your guard to recover stamina. After the fight, **Stay a little longer** keeps the room explorable.
 
-Vezi CREDITS.md și licențele incluse în HTML pentru atribuirea resurselor.
+English dialogue is spoken using the browser's installed voices when available. English subtitles remain visible. All voices can be muted using **SOUND**.
+
+The protagonist wears a hood that hides the face. The sparse room overlooks a small 3D rainy city view; combat has light blood effects and physical ragdoll falls. This is a short narrative prototype.
+
+See CREDITS.md and the licenses embedded in index.html for resource attribution.

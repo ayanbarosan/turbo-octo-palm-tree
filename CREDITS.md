@@ -1,7 +1,9 @@
-# Resurse
+# No One Else — credits
 
-- Three.js și exemplele sale: https://github.com/mrdoob/three.js — licență MIT pentru bibliotecă. Resursele artistice pot avea atribuiri proprii.
-- Scanare cap **Lee Perry-Smith**, distribuită în exemplele Three.js: https://github.com/mrdoob/three.js/tree/dev/examples/models/gltf/LeePerrySmith. În această versiune autonomă, modelul și texturile sunt incluse în `index.html`.
-- **DM Sans** — Colophon Foundry, Jonny Pinhorn și Indian Type Foundry; pachet `@fontsource/dm-sans`, SIL Open Font License 1.1.
-- **Cormorant Garamond** — Christian Thalmann; pachet `@fontsource/cormorant-garamond`, SIL Open Font License 1.1.
-- Decorul, materialele procedurale, animațiile, efectele audio sintetizate și textul poveștii sunt create pentru acest prototip.
+- **Three.js**, https://github.com/mrdoob/three.js — MIT license.
+- **cannon-es**, https://github.com/pmndrs/cannon-es — MIT license; articulated ragdoll physics.
+- **Lee Perry-Smith head scan**, distributed in the official Three.js examples: https://github.com/mrdoob/three.js/tree/dev/examples/models/gltf/LeePerrySmith. Used for the visitor. Its model and color/normal maps are embedded in the standalone HTML; development assets live in public/models/.
+- **DM Sans** — Colophon Foundry, Jonny Pinhorn and Indian Type Foundry; SIL Open Font License 1.1, via @fontsource/dm-sans.
+- **Cormorant Garamond** — Christian Thalmann; SIL Open Font License 1.1, via @fontsource/cormorant-garamond.
+- Apartment, limited city view, hooded actor, clothing, animation, story, synthesized rain/knocks and combat audio created for this prototype.
+- Optional English speech uses the browser's native speech synthesis and installed voices; no voice recording is bundled.

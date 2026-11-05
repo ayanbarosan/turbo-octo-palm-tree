@@ -20,6 +20,6 @@ The protagonist wears a hood that hides the face. The sparse room overlooks a sm
 
 See CREDITS.md and the licenses embedded in index.html for resource attribution.
 
-## Motion update
+## Movement and stability update
 
-The actors now have continuous skinned clothing and a bone rig, recorded human walking and boxing clips, grounded foot contacts, smoother acceleration and turning, and distinct jab/cross/hook transitions. CMU motion-capture attribution and usage rights are included in the HTML and CREDITS.md.
+Standing characters return to an upright, relaxed pose. Walking keeps a normal stride with reduced sway, grounded feet and smooth starts and stops. Punches have distinct jab, cross and hook transitions. Fallen characters keep their continuous skin, stop receiving animation, and settle into physical sleep. CMU motion-capture attribution and usage rights are included in the HTML and CREDITS.md.
